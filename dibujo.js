@@ -36,5 +36,4 @@ function dibujoPorClick()
 
   dibujarLinea(colorcito, 0, 1, 1, ancho);
   dibujarLinea(colorcito, 1, 299, 299, ancho);
-
 }
